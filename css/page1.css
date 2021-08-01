@@ -1,17 +1,17 @@
 .hd1 {
-    width: 100%;
-    height: 80px;
-  
-    display: flex;
-    flex-direction: row;
-    position: fixed;
-    z-index: 999 !important;
-    display: flex;
-  
-    flex-direction: row;
-    align-items: center;
-  }
-  
+  width: 100%;
+  height: 80px;
+
+  display: flex;
+  flex-direction: row;
+  position: fixed;
+  z-index: 999 !important;
+  display: flex;
+
+  flex-direction: row;
+  align-items: center;
+}
+
 .hb {
   width: 50%;
 }
@@ -33,7 +33,6 @@
   color: #ffffff;
 }
 
-
 .r .mi {
   margin-left: 21%;
   width: 150px;
@@ -53,170 +52,166 @@
 }
 
 .bg1 {
-    width: 100%;
-    height: 800px;
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/storage-4leaf.appspot.com/o/HNB%2Fassets%2Fimages%2FMM01%2Fbg-img01.png?alt=media&token=63845422-2bf0-486d-b3a1-487e7ab186c9");
-    display: flex;
-    background-size: cover;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    text-shadow: 2px 2px 2px black ;
-
+  width: 100%;
+  height: 800px;
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/storage-4leaf.appspot.com/o/HNB%2Fassets%2Fimages%2FMM01%2Fbg-img01.png?alt=media&token=63845422-2bf0-486d-b3a1-487e7ab186c9");
+  display: flex;
+  background-size: cover;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-shadow: 2px 2px 2px black;
 }
 
 .at {
-    color: white;
-    font-size: 40px;
-    font-weight: 700;
+  color: white;
+  font-size: 40px;
+  font-weight: 700;
 }
 
 .bg2 {
-    width: 100%;
-    height: 700px;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
+  width: 100%;
+  height: 700px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }
 
 .b2 {
-    width: 1350px;
-    height: 482.34px;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
+  width: 1350px;
+  height: 482.34px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }
 
 .text {
-    width: 600px;
-    height: 482.34px;
-    padding: 35px;
+  width: 600px;
+  height: 482.34px;
+  padding: 35px;
 }
 
 .t2 {
-    width: 355.31px;
-    height: 71.34px;
-    font-weight: 600;
-    margin: 10px 0px;
-    padding: 5px;
-    align-items: center;
-    display: flex;
-    flex-direction: row;
-    font-size: 35px;
+  width: 355.31px;
+  height: 71.34px;
+  font-weight: 600;
+  margin: 10px 0px;
+  padding: 5px;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  font-size: 35px;
 }
 
 .text_2 {
-    width: 90px;
-    height: 45.34px;
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/storage-4leaf.appspot.com/o/HNB%2Fassets%2Fimages%2FLogo%2Flogo.png?alt=media&token=9a033943-1166-4cec-88b2-c42f339afb2b");
-    background-size: cover;
-    margin: 10px;
+  width: 90px;
+  height: 45.34px;
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/storage-4leaf.appspot.com/o/HNB%2Fassets%2Fimages%2FLogo%2Flogo.png?alt=media&token=9a033943-1166-4cec-88b2-c42f339afb2b");
+  background-size: cover;
+  margin: 10px;
 }
 
 .image {
-    width: 650px;
-    height: 450px;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
+  width: 650px;
+  height: 450px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }
 
 .ig {
-    width: 70%;
-    height: 100%;
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/storage-4leaf.appspot.com/o/HNB%2Fassets%2Fimages%2FMM00%2Fiso_1.jpg?alt=media&token=8b46fda0-2653-44bb-a1e3-be0be08b4724");
-    background-size: cover;
+  width: 70%;
+  height: 100%;
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/storage-4leaf.appspot.com/o/HNB%2Fassets%2Fimages%2FMM00%2Fiso_1.jpg?alt=media&token=8b46fda0-2653-44bb-a1e3-be0be08b4724");
+  background-size: cover;
 }
 .wp6 {
-    width: 100%;
-    height: 170px;
-    background-color: rgb(18, 49, 70);
-    align-items: center;
-   
-    display: flex;
-    flex-direction: row;
-  }
-  
-  .wp6 .hnb {
-    width: 190px;
-    height: 88px;
-    margin-left: 45px;
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    flex-direction: row;
-  }
-  
-  .wp6 .hnb .hnb__dkd {
-    width: 190px;
-    height: 43.45px;
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/storage-4leaf.appspot.com/o/HNB%2Fassets%2Fimages%2FLogo%2Fwhite_text.png?alt=media&token=1752fbf6-e67f-41a8-b131-42ef9b3577ef");
-    background-size: cover;
-  }
-  
-  .wp6 .eovy {
-    width: 720px;
-    height: 88px;
-    margin-left: 440px;
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    flex-direction: row;
-  }
-  
-  .wp6 .eovy .eovy__eovy {
-    color: #ffffff;
-    width: 350px;
-    height: 88px;
-    font-size: 14px;
-    margin-right: 20px;
-  }
-  
-  .wp6 .eovy .eovy__eovy .eo {
-    width: 350px;
-    height: 22px;
-  }
-  
-  .wp6 .eovy .eovy__eovy .tk {
-    width: 350px;
-    height: 22px;
-  }
-  
-  
-  .wp6 .eovy .eovy__eovy .wn {
-    width: 350px;
-    height: 22px;
-  }
-  
-  
-  .wp6 .eovy .eovy__eovy .behd {
-    width: 350px;
-    height: 22px;
-  }
-  
-  
-  .wp6 .eovy .eovy__wjsqjs {
-    color: #ffffff;
-    width: 350px;
-    height: 66px;
-    font-size: 14px;
-    justify-content: center;
-  }
-  
-  .wp6 .eovy .eovy__wjsqjs .wjsqjs {
-    width: 350px;
-    height: 22px;
-  }
-  
-  .wp6 .eovy .eovy__wjsqjs .dlap {
-    width: 350px;
-    height: 22px;
-  }
-  
-  .wp6 .eovy .eovy__wjsqjs .copy {
-    width: 350px;
-    height: 22px;
-  }
+  width: 100%;
+  height: 170px;
+  background-color: rgb(18, 49, 70);
+  align-items: center;
+
+  display: flex;
+  flex-direction: row;
+}
+
+.wp6 .hnb {
+  width: 190px;
+  height: 88px;
+  margin-left: 45px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.wp6 .hnb .hnb__dkd {
+  width: 190px;
+  height: 43.45px;
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/storage-4leaf.appspot.com/o/HNB%2Fassets%2Fimages%2FLogo%2Fwhite_text.png?alt=media&token=1752fbf6-e67f-41a8-b131-42ef9b3577ef");
+  background-size: cover;
+}
+
+.wp6 .eovy {
+  width: 720px;
+  height: 88px;
+  margin-left: 440px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.wp6 .eovy .eovy__eovy {
+  color: #ffffff;
+  width: 350px;
+  height: 88px;
+  font-size: 14px;
+  margin-right: 20px;
+}
+
+.wp6 .eovy .eovy__eovy .eo {
+  width: 350px;
+  height: 22px;
+}
+
+.wp6 .eovy .eovy__eovy .tk {
+  width: 350px;
+  height: 22px;
+}
+
+.wp6 .eovy .eovy__eovy .wn {
+  width: 350px;
+  height: 22px;
+}
+
+.wp6 .eovy .eovy__eovy .behd {
+  width: 350px;
+  height: 22px;
+}
+
+.wp6 .eovy .eovy__wjsqjs {
+  color: #ffffff;
+  width: 350px;
+  height: 66px;
+  font-size: 14px;
+  justify-content: center;
+}
+
+.wp6 .eovy .eovy__wjsqjs .wjsqjs {
+  width: 350px;
+  height: 22px;
+}
+
+.wp6 .eovy .eovy__wjsqjs .dlap {
+  width: 350px;
+  height: 22px;
+}
+
+.wp6 .eovy .eovy__wjsqjs .copy {
+  width: 350px;
+  height: 22px;
+}
