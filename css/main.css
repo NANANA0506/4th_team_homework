@@ -157,13 +157,15 @@
     border-bottom: 3px solid rgb(18, 49, 70);
     color: #000;
   }
+
+
   
   .wp2 .mb {
     width: 1350px;
     height: 485px;
     display: flex;
     flex-direction: row;
-    margin-left: 40px;
+    margin-left: 220px;
   }
   
   .wp2 .mb .mnb1 {
